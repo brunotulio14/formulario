@@ -9,12 +9,13 @@
      <h1>formulário de cadastrato</h1>	
 <main>
 	<form>
-		<label>nome</label>
+		<label for="nome">nome/label>
 		<input type="text" id="nome">
 		
-		<label>endereço</label>
+		<label for="endereço">endereço</label>
 		<input type="text" id="endereço">
-		<input type="submit" value="enviar resosta"
+			
+		<label for
 	</form>
 </main>
 
